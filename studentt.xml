@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="file.xsl" type="text/xsl"?>
+<books>
+  
+   <book>
+      <title>  Web Stack</title>
+      <faculty>Lokanayaki K</faculty>
+      <author> Chrisbates</author>
+      <publisher> Wiley</publisher>
+      <edition> 3</edition>
+      <price>1000</price>
+   </book>
+   <book>
+      <title> Microprocessor</title>
+      <faculty> Kavitha R</faculty>
+      <author> Ditel</author>
+      <publisher> Pearson</publisher>
+      <edition> 3</edition>
+      <price>400</price>
+   </book>   
+   <book>
+      <title> Research Methodologies</title>
+      <faculty>Sandeep J</faculty>
+      <author> Foruouzan</author>
+      <publisher> Mc Graw Hill</publisher>
+      <edition>5</edition>
+      <price>700</price>
+   </book>
+   <book>
+      <title>DBMS Concepts</title>
+      <faculty> Ruchi K</faculty>
+      <author> Navath</author>
+      <publisher>Oxford</publisher>
+      <edition> 5</edition>
+      <price>600</price>
+   </book>
+   <book>
+      <title>Software Engineering</title>
+      <faculty>Thiru S</faculty>
+      <author>Subhitab Das</author>
+      <publisher> Oxford</publisher>
+      <edition>8</edition>
+      <price> 300</price>
+   </book>
+</books>
